@@ -21,7 +21,7 @@
 			
 			"Message":			"Message",
 			"Member":			"Member",
-			"Mention":			"Mention",
+			"Mention":			"Mention"
 		
 		},
 		
@@ -33,7 +33,7 @@
 			"genericNoUserPerms": 	"You are missing permission to do that.",
 			
 			"genericNoShard": 		"Sorry, Yves is currently not available on your server. Try again in a minute or two.",
-			"genericOutage": 		"Sorry, Yves is currently experiencing an outage, Try again in a couple minutes.",
+			"genericOutage": 		"Sorry, Yves is currently experiencing an outage, Try again in a couple minutes."
 		
 		},
 		
