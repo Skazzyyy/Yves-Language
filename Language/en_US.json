@@ -1,0 +1,52 @@
+{
+
+	"meta": {
+	
+		"name":				"English (US)",
+		"short":       		"en_US",
+		"maintainers":		["Nioxed"]
+	
+	},
+	
+	"terms": {
+	
+		"Discord": {
+		
+			"Guild":				"Server",
+			
+			"Channel":				"Channel",
+			"VoiceChannel":			"Voice Channel",
+			"TextChannel":			"Text Channel",
+			"CategoryChannel":		"Category Channel",
+			
+			"Message":			"Message",
+			"Member":			"Member",
+			"Mention":			"Mention",
+		
+		},
+		
+		"exceptions": {
+		
+			"generic": 				"A exception has occurred.",
+			"genericLogged": 		"A exception has occurred. Go to {1} for more information.",
+			"genericNoPerms": 		"Missing permissions to do that here.",
+			"genericNoUserPerms": 	"You are missing permission to do that.",
+			
+			"genericNoShard": 		"Sorry, Yves is currently not available on your server. Try again in a minute or two.",
+			"genericOutage": 		"Sorry, Yves is currently experiencing an outage, Try again in a couple minutes.",
+		
+		},
+		
+		"dialog": {
+		
+			"confirm": 		"Confirm Action.",
+			"choose": 		"Make a choice."
+		
+		}
+	
+	
+	
+	}
+
+
+}
