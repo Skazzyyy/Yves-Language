@@ -4,7 +4,9 @@
 	
 		"name":				"English (US)",
 		"short":       		"en_US",
-		"maintainers":		["Nioxed"]
+		"maintainers":		["Nioxed#0404"],
+
+		"versionFormat":	4
 	
 	},
 	
@@ -19,9 +21,9 @@
 			"TextChannel":			"Text Channel",
 			"CategoryChannel":		"Category Channel",
 			
-			"Message":			"Message",
-			"Member":			"Member",
-			"Mention":			"Mention"
+			"Message":				"Message",
+			"Member":				"Member",
+			"Mention":				"Mention"
 		
 		},
 		
@@ -43,10 +45,18 @@
 			"choose": 		"Make a choice."
 		
 		},
+
+		"rooms": {
+
+			"roomCreated": "Your room was created!"
+
+		},
 		
 		"misc": {
 		
-			"y":	"y"
+			"y":	"y",
+			"working": "Working on it...",
+			"checking": "Please wait..."
 		
 		}
 	
