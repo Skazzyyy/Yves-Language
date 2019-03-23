@@ -35,7 +35,9 @@
 			"genericNoUserPerms": 	"You are missing permission to do that.",
 			
 			"genericNoShard": 		"Sorry, Yves is currently not available on your server. Try again in a minute or two.",
-			"genericOutage": 		"Sorry, Yves is currently experiencing an outage, Try again in a couple minutes."
+			"genericOutage": 		"Sorry, Yves is currently experiencing an outage, Try again in a couple minutes.",
+			
+			"contactAdmin":			"If you belive this is an error, contact the server administrator"
 		
 		},
 		
@@ -48,7 +50,9 @@
 
 		"rooms": {
 
-			"roomCreated": "Your room was created!"
+			"roomCreated": "Your room was created!",
+
+			"roomSummonErrorExiting": "You cannot create a room at this time, You most likely already have one."
 
 		},
 		
