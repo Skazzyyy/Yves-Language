@@ -47,7 +47,10 @@
 		"dialog": {
 		
 			"confirm": 		"Confirm Action.",
-			"choose": 		"Make a choice."
+			"choose": 		"Make a choice.",
+
+			"expiresIn":	"Expires in {1} seconds.",
+			"targetMember":	"Only {1} can decide."
 		
 		},
 
@@ -67,7 +70,9 @@
 		
 			"y":	"y",
 			"working": "Working on it...",
-			"checking": "Please wait..."
+			"checking": "Please wait...",
+
+			"noMember": "No members were found."
 		
 		}
 	
