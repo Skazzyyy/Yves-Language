@@ -46,11 +46,19 @@
 		
 		"dialog": {
 		
-			"confirm": 		"Confirm Action.",
-			"choose": 		"Make a choice.",
+			"confirm": 				"Confirm Action.",
+			"choose": 				"Make a choice.",
 
-			"expiresIn":	"Expires in {1} seconds.",
-			"targetMember":	"Only {1} can decide."
+			"expiresIn":			"Expires in {1} seconds.",
+			"targetMember":			"Only {1} can decide.",
+
+			"actionConfirmed":		"Action Confirmed",
+			"actionCanceled": 		"Action Canceled",
+			"actionExpired": 		"Action Expired",
+			"actionExpiredDesc": 	"The {1} second timer expired.",
+			"actionCanceledDesc": 	"{1} clicked cancel.",
+
+			"footerMessage": 		"Expires in {1} only {2} can confirm."
 		
 		},
 
