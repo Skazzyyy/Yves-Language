@@ -29,7 +29,9 @@
 		
 		"exceptions": {
 
-			"titlePermission":		"Missing Permissions.",
+
+			"titleGeneric":			"Something went wrong.",
+			"titlePermission":		"Permission Denied.",
 			"titleNotImplemented":	"Not Implemented",
 		
 			"generic": 				"A exception has occurred.",
@@ -40,7 +42,9 @@
 			"genericNoShard": 		"Sorry, Yves is currently not available on your server. Try again in a minute or two.",
 			"genericOutage": 		"Sorry, Yves is currently experiencing an outage, Try again in a couple minutes.",
 			
-			"contactAdmin":			"If you belive this is an error, contact the server administrator"
+			"contactAdmin":			"If you belive this is an error, contact the server administrator",
+
+			"roomTooManyMembers":	"Inviting these people would exceed the room member limit."
 		
 		},
 		
