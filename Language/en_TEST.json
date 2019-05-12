@@ -2,8 +2,8 @@
 
 	"meta": {
 	
-		"name":				"English (US)",
-		"short":       		"en_US",
+		"name":				"English (TEST)",
+		"short":       		"en_TEST",
 		"maintainers":		["Nioxed#0404"],
 
 		"versionFormat":	4
