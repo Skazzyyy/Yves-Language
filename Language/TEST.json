@@ -1,0 +1,45 @@
+{
+
+	"meta": {
+	
+		"name":				"English (Invalid)",
+		"short":       		"en_TEST",
+		"maintainers":		["Nioxed#0404"],
+
+		"versionFormat":	4
+	
+	},
+	
+	"terms": {
+	
+		"Discord": {
+
+		
+		},
+		
+		"exceptions": {
+		
+		},
+		
+		"dialog": {
+		
+		},
+
+		"rooms": {
+
+		},
+		
+		"misc": {
+		
+		},
+
+		"help": {
+
+		}
+	
+	
+	
+	}
+
+
+}
