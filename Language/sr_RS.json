@@ -1,0 +1,106 @@
+{
+
+	"meta": {
+
+		"name": "Serbian (RS)",
+		"short": "sr_RS",
+		"maintainers": ["'SkazzY'#1291"],
+
+		"versionFormat": 4
+
+	},
+
+	"terms": {
+
+		"Discord": {
+
+			"Guild": "Server",
+
+			"Channel": "Kanal",
+			"VoiceChannel": "Glasovni Kanal",
+			"TextChannel": "Tekstualni Kanal",
+			"CategoryChannel": "Kategorija Kanal",
+
+			"Message": "Poruka",
+			"Member": "Clan",
+			"Mention": "Pominjanje"
+
+		},
+
+		"exceptions": {
+
+
+			"titleGeneric": "Nesto je poslo po zlu.",
+			"titlePermission": "Zabranjen pristup.",
+			"titleNotImplemented": "Nije ubaceno",
+
+			"generic": "Desila se greska.",
+			"genericLogged": "Desila se greska. Za vise informacija idi na {1}.",
+			"genericNoPerms": "Nemas dozvolu da uradis to ovde.",
+			"genericNoUserPerms": "Potrebna ti je `{1}` dozvola da bi to uradio.",
+
+			"genericNoShard": "Izvini, Yves trenutno nije dostupan na tvom serveru. Pokusaj ponovo za par minuta.",
+			"genericOutage": "Izvini, Yves trenutno nije u funkciji, pokusaj ponovo za par minuta.",
+
+			"contactAdmin": "Ako mislis da je ovo greska, kotanktiraj administratora",
+
+			"roomTooManyMembers": "Pozivanje ovih ljudi bi preslo preko ogranicenja za broj ljudi u sobi."
+
+		},
+
+		"dialog": {
+
+			"confirm": "Potvrdi akciju.",
+			"choose": "Izaberi.",
+
+			"expiresIn": "Istice za {1} sekundi.",
+			"targetMember": "Samo {1} moze da odluci.",
+
+			"actionConfirmed": "Akcija potvrdjena",
+			"actionCanceled": "Akcija otkazana",
+			"actionExpired": "Akcija istekla",
+			"actionExpiredDesc": "{1} odbrojavanje je isteklo.",
+			"actionCanceledDesc": "{1} je pritisnuo otkazi.",
+
+			"footerMessage": "Istice za {1} samo {2} moze da potvrdi."
+
+		},
+
+		"rooms": {
+
+			"roomCreated": "Tvoja soba je napravljena!",
+			"roomDeleted": "Tvoja soba je obrisana!",
+
+			"noRoomAvailable": "Nemas sobu. Napravi jednu pre nego sto probas opet.",
+
+			"roomSummonErrorExiting": "Ne mozes napraviti sobu u ovom trenutku. Verovatno vec imas jednu",
+			"roomDeleteNoRoom": "Nisam mogao naci sobu za brisanje. Da li si siguran da {1} poseduje sobu?"
+
+		},
+
+		"misc": {
+
+			"y": "y",
+			"working": "Radi se na tome...",
+			"checking": "Molimo vas da sacekate...",
+
+			"noMember": "Ni jedan clan nije pronadjen."
+
+		},
+
+		"help": {
+
+			"dashboard_url": "https://yvesbot.com/dashboard/{1}",
+			"dashboard_url_message": "Mozes promeniti ponasanje bota preko komandne table na:",
+
+			"bug_report_url": "https://forms.gle/sDZVWYef3kfEPYW48",
+			"feedback_url": "https://forms.gle/ssjKRRo395YkZ8Wt9"
+
+		}
+
+
+
+	}
+
+
+}
