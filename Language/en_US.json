@@ -91,7 +91,7 @@
 		"help": {
 
 			"dashboard_url": "https://yvesbot.com/dashboard/{1}",
-			"dashboard_url_message": "You can change bot behavoir via the dashboard at:",
+			"dashboard_url_message": "You can change bot behavior via the dashboard at:",
 			
 			"bug_report_url": "https://forms.gle/sDZVWYef3kfEPYW48",
 			"feedback_url": "https://forms.gle/ssjKRRo395YkZ8Wt9"
