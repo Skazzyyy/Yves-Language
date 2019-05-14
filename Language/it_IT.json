@@ -1,0 +1,66 @@
+{
+   "meta":{
+      "name":"Italian (IT)",
+      "short":"it_IT",
+      "maintainers":[
+         "SpeckyYT#6289"
+      ],
+      "versionFormat":4
+   },
+   "terms":{
+      "Discord":{
+         "Guild":"Server",
+         "Channel":"Canale",
+         "VoiceChannel":"Canale vocale",
+         "TextChannel":"Canale testuale",
+         "CategoryChannel":"Categoria",
+         "Message":"Messaggio",
+         "Member":"Membro",
+         "Mention":"Menzione"
+      },
+      "exceptions":{
+         "titleGeneric":"Qualcosa é andato storto.",
+         "titlePermission":"Permesso negato.",
+         "titleNotImplemented":"Non implementato.",
+         "generic":"È successa un'eccezione.",
+         "genericLogged":"È successa un'eccezione. Vai a {1} per piú informazioni.",
+         "genericNoPerms":"Mancano i permessi per farlo qua.",
+         "genericNoUserPerms":"Ti serve il permesso `{1}` per farlo.",
+         "genericNoShard":"Scusa, Yves non é disponibile al momento sul tuo server. Riprova tra un minuto o due.",
+         "genericOutage":"Scusa, Yves ha un'interruzione temporanea. Riprova tra alcuni minuti.",
+         "contactAdmin":"Se credi che questo sia un errore, contatta l'amministratore del server",
+         "roomTooManyMembers":"Invitando queste persone, eccederebbe il limite dei membri del canale."
+      },
+      "dialog":{
+         "confirm":"Conferma azione.",
+         "choose":"Fai una scelta.",
+         "expiresIn":"Scade in {1} secondi.",
+         "targetMember":"Solo {1} può decidere.",
+         "actionConfirmed":"Azione confermata",
+         "actionCanceled":"Azione annullata",
+         "actionExpired":"Azione scaduta",
+         "actionExpiredDesc":"Il timer di {1} secondi é scaduto.",
+         "actionCanceledDesc":"{1} ha cliccato cancel.",
+         "footerMessage":"Scade in {1} solo {2} può confermare."
+      },
+      "rooms":{
+         "roomCreated":"Il tuo canale é stato creato!",
+         "roomDeleted":"Il tuo canale é stato rimosso!",
+         "noRoomAvailable":"Non hai un canale. Creane uno prima di riprovare.",
+         "roomSummonErrorExiting":"Non puoi creare un canale ora, forse ne hai già una.",
+         "roomDeleteNoRoom":"Non é stato trovato alcun canale da cancellare. Sei sicuro che ce ne sia uno per {1}?"
+      },
+      "misc":{
+         "y":"y",
+         "working":"Sto lavorando...",
+         "checking":"Perfavore aspetta...",
+         "noMember":"Nessun membro é stato trovato."
+      },
+      "help":{
+         "dashboard_url":"https://yvesbot.com/dashboard/{1}",
+         "dashboard_url_message":"Puoi cambiare il comportamento del bot via la dashboard su:",
+         "bug_report_url":"https://forms.gle/sDZVWYef3kfEPYW48",
+         "feedback_url":"https://forms.gle/ssjKRRo395YkZ8Wt9"
+      }
+   }
+}
